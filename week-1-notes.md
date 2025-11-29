@@ -13,3 +13,7 @@
 ## Next Week
 - Continue and close the mobile automation task using Appium For Oze
 - Read 100 more pages of this testing book (Can't name it just yet)
+
+Keep Learning🤪
+The Wealthy Girl - TWG
+
