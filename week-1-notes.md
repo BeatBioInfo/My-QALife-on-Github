@@ -1,4 +1,4 @@
-# Week 1 - Getting Started
+# Week 1 - Getting Started with the learning streaks
 
 ## What I Did
 - Set up my GitHub repository for learning
