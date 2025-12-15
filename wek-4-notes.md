@@ -12,7 +12,7 @@
 ## What I am committed to Next Week
 - Complete the AWS Course
 - Start the APISec Couse
-- Refactor the login flow that automatically remove the screen
+- Refactor the login flow that automatically remove the blocking screen using Appium Java
 
 
 Keep Learning🤪
