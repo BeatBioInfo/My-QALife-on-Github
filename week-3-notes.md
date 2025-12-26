@@ -1,4 +1,4 @@
-# Week 2 - Getting Started with the learning streaks
+# Week 3 - Getting Started with the learning streaks
 
 ## What I have done
 - Resolve the dom related issue with running the sales transaction test

@@ -1,17 +1,16 @@
-# Week 4 - Getting Started with the learning streaks
+# Week 5 - Getting Started with the learning streaks
 
 ## What I have done
-- Created an AppiumUtil class to house the code to dismiss the SDK branch Validator
-- Refactor the login flow that automatically remove the blocking screen using Appium Java
 - Refactored the sales transaction flow to the appropriate page object
+- Started writing the test for view and editing a sales transaction
 
 
 ## What I Learned
 - Learnt that pressing back on the splash screen dismisses the Branch SDK Validator modal
+- Created a util class that allows the method to be called from the createSession class
 
 
 ## What I am committed to Next Week
-- Complete the AWS Course
 - Start the APISec Couse
 
 
